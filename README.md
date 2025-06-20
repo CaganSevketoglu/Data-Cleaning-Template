@@ -39,3 +39,9 @@ This notebook guides you through the most critical preprocessing tasks:
 3.  Open the notebook and update the `file_path` variable in the first code cell to point to your data file.
 4.  Update the configuration in the "Encode Categorical Data" section to list your binary and target columns.
 5.  Run the cells from top to bottom!
+
+## 🚀 Get The Template on Gumroad
+
+This repository shows the structure of the project. You can purchase the final, clean, and fully-commented Jupyter Notebook template from my Gumroad page to accelerate your data science projects!
+
+[**>> Get The Template Here <<**] (https://sevketoglu.gumroad.com/l/fozyf?_gl=1*9a6r4z*_ga*MTg0NDEzMzY2MC4xNzUwNDIwMTY4*_ga_6LJN6D94N6*czE3NTA0NDk3NDAkbzUkZzEkdDE3NTA0NDk3OTIkajgkbDAkaDA.)
